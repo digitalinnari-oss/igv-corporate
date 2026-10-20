@@ -1,4 +1,4 @@
-# IGV Corporate Website V4 — profil perusahaan tanpa transaksi
+# IGV Corporate Website — profil perusahaan
 
 ## Isi
 - `index.html`: halaman korporasi, profil, 5 layanan KBLI, legalitas, ekosistem, kontak.
